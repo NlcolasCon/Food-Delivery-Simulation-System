@@ -26,10 +26,9 @@ The system reads orders and historical delivery data from text files, simulates 
 ## Repository Structure
 Food-Delivery-System/
 ┣ src/
-┃ ┣ hw4/
-┃ ┃ ┣ Algorithms.java 
-┃ ┃ ┣ Pitta.java 
-┃ ┃ ┗ ... # Order, Driver, AlgorithmA/B/C, App/Main, etc.
+┃ ┣ Algorithms.java 
+┃ ┣ Pitta.java 
+┃ ┗ ... # Order, Driver, AlgorithmA/B/C, App/Main, etc.
 ┣ data/
 ┃ ┣ orders.txt
 ┃ ┗ deliveries.txt
